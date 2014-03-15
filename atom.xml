@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Have Fun]]></title>
-  <link href="http://jumbal.github.io/atom.xml" rel="self"/>
-  <link href="http://jumbal.github.io/"/>
-  <updated>2014-03-15T03:59:12-07:00</updated>
-  <id>http://jumbal.github.io/</id>
+  <link href="http://Jumbal.github.io/atom.xml" rel="self"/>
+  <link href="http://Jumbal.github.io/"/>
+  <updated>2014-03-15T04:11:28-07:00</updated>
+  <id>http://Jumbal.github.io/</id>
   <author>
-    <name><![CDATA[jumbal]]></name>
+    <name><![CDATA[Jumbal]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://jumbal.github.io/sitemap.xml 
+Sitemap: http://Jumbal.github.io/sitemap.xml 
