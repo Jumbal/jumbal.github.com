@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://jumbal.github.io
+title: Have Fun
+subtitle: Every cloud has a silver lining
+author: jumbal
 simple_search: https://www.google.com/search
 description:
 
