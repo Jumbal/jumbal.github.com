@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Have Fun]]></title>
+  <link href="http://jumbal.github.io/atom.xml" rel="self"/>
+  <link href="http://jumbal.github.io/"/>
+  <updated>2014-03-15T03:59:12-07:00</updated>
+  <id>http://jumbal.github.io/</id>
+  <author>
+    <name><![CDATA[jumbal]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
